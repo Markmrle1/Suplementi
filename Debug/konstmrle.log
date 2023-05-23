@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\student\source\repos\konstmrle\konstmrle\main.c(17,31): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char'
+C:\Users\student\source\repos\konstmrle\konstmrle\main.c(17,21): warning C4024: 'izbornik': different types for formal and actual parameter 1
+  izbornik.c
+  Generating Code...
+C:\Users\student\source\repos\konstmrle\konstmrle\main.c(17): error C4700: uninitialized local variable 'suplementi' used
