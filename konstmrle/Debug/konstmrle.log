@@ -1,0 +1,9 @@
+﻿  funkcija.c
+C:\Users\student\source\repos\konstmrle\konstmrle\funkcija.c(24,14): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\student\source\repos\konstmrle\konstmrle\funkcija.c(56,33): warning C4047: '<': 'int' differs in levels of indirection from 'const SUPLEMENT *const '
+  main.c
+  izbornik.c
+C:\Users\student\source\repos\konstmrle\konstmrle\izbornik.c(44,23): warning C4013: 'ispisivanjeStudenata' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\student\source\repos\konstmrle\konstmrle\funkcija.c(10): warning C4716: 'ucitavanjeSuplementa': must return a value
+  konstmrle.vcxproj -> C:\Users\student\source\repos\konstmrle\Debug\konstmrle.exe
